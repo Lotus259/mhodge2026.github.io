@@ -3,4 +3,4 @@
 > In my data-intensive ecology class, I partook in a semester-long data analysis research project.
 > Let me introduce you to:
 
-####Biodiversity and Biomarkers: How abiotic and biotic factors of an ecosystem change
+#### Biodiversity and Biomarkers: How abiotic and biotic factors of an ecosystem change
